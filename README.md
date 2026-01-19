@@ -40,7 +40,7 @@ Plex supports `/dev/dri` mapping if enabled on the NAS.
 
 ## 📁 Project Structure
 
-```plaintext
+plaintext
 arr-apps/
 │
 ├── docker-compose.yml
@@ -88,6 +88,8 @@ VPN_PASS=your_nordvpn_password
 
 
 ## 🧰 Complete Docker Compose (Including Overseerr + FlareSolverr)
+
+```yaml
 version: "3.2"
 services:
   gluetun:
@@ -224,7 +226,7 @@ services:
       - SONARR__URL=http://192.168.50.38:8989
       - SONARR__API=<sonarr_api_key>
     restart: unless-stopped
-    
+```
 ## 🧩 Prowlarr + FlareSolverr Integration
 ## 🌐 Overseerr Setup
 ## 📡 Discord Automation (Doplarr)

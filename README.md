@@ -234,25 +234,25 @@ Below are screenshots of the final fully automated media stack running on my UGR
 
 ### 📺 Plex Dashboard  
 A clean library view with instant metadata refresh powered by Radarr/Sonarr automation.  
-![Plex Dashboard](screenshots/plex-dashboard.png)
+![Plex Dashboard](screenshots/screenshots-plex-dashboard.png)
 
 ### 🎬 Overseerr – Media Request Portal  
 Users request movies/TV through a modern web UI.  
-![Overseerr](screenshots/overseerr.png)
+![Overseerr](screenshots/screenshots-overseerr.png)
 
 ### 🔐 qBittorrent Routed Through Gluetun VPN  
 All torrent traffic forced through NordVPN (OpenVPN).  
-![qBittorrent](screenshots/qbittorrent.png)
+![qBittorrent](screenshots/screenshots-qbittorrent.png)
 
 ### 🌐 Prowlarr + FlareSolverr (Cloudflare Bypass)  
 Public indexers load without Cloudflare errors thanks to FlareSolverr.  
-![Prowlarr + Flaresolverr](screenshots/prowlarr-flaresolverr.png)
+![Prowlarr + FlareSolverr](screenshots/screenshots-prowlarr-flaresolverr.png)
 
 ### 🐳 UGREEN NAS Docker UI  
 The entire stack visible and managed through UGREEN’s Docker interface.  
-![UGREEN Docker UI](screenshots/ugreen-docker.png)
+![UGREEN Docker UI](screenshots/screenshots-ugreen-docker.png)
 
 ### 🤖 Discord Media Request Bot (Doplarr)  
 Users can request content directly in Discord.  
-![Doplarr Bot](screenshots/doplarr.png)
+![Doplarr](screenshots/screenshots-doplarr.png)
 
